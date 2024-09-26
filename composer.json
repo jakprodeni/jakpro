@@ -3,6 +3,11 @@
     "description": "Library JSO",
     "type": "library",
     "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "jakpro\\jso\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Deni Bahtiar",
