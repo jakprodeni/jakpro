@@ -2,7 +2,7 @@
     "name": "jakpro/jso",
     "description": "Library JSO",
     "type": "library",
-    "license": "gpl",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Deni Bahtiar",
