@@ -1,0 +1,13 @@
+{
+    "name": "jakpro/jso",
+    "description": "Library JSO",
+    "type": "library",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "Deni Bahtiar",
+            "email": "deni@jakpro.co.id"
+        }
+    ],
+    "require": {}
+}
